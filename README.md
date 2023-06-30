@@ -17,14 +17,14 @@
 - 📫 How to reach me: guty.vertolis@gmail.com
 
 
-###🗃️ 2023 Goals:
+### 🗃️ 2023 Goals:
 
 - 💻 Start my studies in back-end development.
 - 👔 Become a junior developer.
 - 🎒 Keep studying to learn and improve my front-end skills.
 
 
-###🖥️ Technologies:
+### 🖥️ Technologies:
 
 These are some of the technologies and tools I use:
 
