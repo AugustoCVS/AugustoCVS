@@ -13,7 +13,7 @@
 </p>
 
 - 🌱 I’m currently studying and improving my skills in typescript, react and react native.
-- 👯 Student at FIAP, Rocketseat and Alura.
+- 💻 Student at FIAP, Rocketseat and Alura.
 - 📫 How to reach me: guty.vertolis@gmail.com
 
 
