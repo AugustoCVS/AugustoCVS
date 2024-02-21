@@ -30,11 +30,11 @@ These are some of the technologies and tools I use:
 
   - Front-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,nextjs,java,spring)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,nextjs)](https://skillicons.dev)
 
   - Back-end
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=ts,js,node,java,spring)](https://skillicons.dev)
 
 - Tools and Plataforms
 
