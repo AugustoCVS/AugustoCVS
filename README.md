@@ -4,24 +4,24 @@
   Welcome to my page :P
 </h1>
 <p align='center'>
-  Front-end Developer
+  Fullstack Developer
 </p>
 
 ### 👨🏻‍💻 About me: 
 <p>
-  I'm 21 years old, from São Paulo and currently interning as a front-end development at Grupo GCB, specificly at GCB Academy.
+  I'm 21 years old, from São Paulo and currently working as a front-end developer at PeerBr.
 </p>
 
-- 🌱 I’m currently studying and improving my skills in typescript, react and react native.
+- 🌱 I’m currently studying and improving my skills in typescript, react, react native and node.
 - 💻 Student at FIAP, Rocketseat and Alura.
 - 📫 How to reach me: guty.vertolis@gmail.com
 
 
-### 🗃️ 2023 Goals:
+### 🗃️ 2024 Goals:
 
-- 💻 Start my studies in back-end development.
+- 💻 Become a full stack developer.
 - 👔 Become a junior developer.
-- 🎒 Keep studying to learn and improve my front-end skills.
+- 🎒 Keep studying to learn and improve my front-end and back-end skills.
 
 
 ### 🖥️ Technologies:
@@ -31,6 +31,10 @@ These are some of the technologies and tools I use:
   - Front-end
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,tailwind,nextjs,java,spring)](https://skillicons.dev)
+
+  - Back-end
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 - Tools and Plataforms
 
