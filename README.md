@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 About me: 
 <p>
-  I'm 21 years old, from São Paulo and currently working as a front-end developer at PeerBr.
+  I'm 21 years old, from São Paulo and a fullstack developer
 </p>
 
 - 🌱 I’m currently studying and improving my skills in typescript, react, react native and node.
@@ -20,8 +20,7 @@
 ### 🗃️ 2024 Goals:
 
 - 💻 Become a full stack developer.
-- 👔 Become a junior developer.
-- 🎒 Keep studying to learn and improve my front-end and back-end skills.
+- 🎒 Keep studying to learn and improve my front-end (mobile and web) and back-end skills.
 
 
 ### 🖥️ Technologies:
