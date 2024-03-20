@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 About me: 
 <p>
-  I'm 21 years old, from São Paulo and a fullstack developer
+  I'm 22 years old, from São Paulo and a fullstack developer
 </p>
 
 - 🌱 I’m currently studying and improving my skills in typescript, react, react native and node.
