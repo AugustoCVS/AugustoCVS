@@ -7,6 +7,9 @@
   Fullstack Developer
 </p>
 
+### Portfólio
+https://main--agtportfolio.netlify.app/#hero
+
 ### 👨🏻‍💻 About me: 
 <p>
   I'm 22 years old, from São Paulo and a fullstack developer
@@ -19,7 +22,6 @@
 
 ### 🗃️ 2024 Goals:
 
-- 💻 Become a full stack developer.
 - 🎒 Keep studying to learn and improve my front-end (mobile and web) and back-end skills.
 
 
