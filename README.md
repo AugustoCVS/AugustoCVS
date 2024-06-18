@@ -22,7 +22,7 @@ https://main--agtportfolio.netlify.app/#hero
 
 ### 🗃️ 2024 Goals:
 
-- 🎒 Keep studying to learn and improve my front-end (mobile and web) and back-end skills.
+- 🎒 Keep studying to learn and improve as a fullstack developer
 
 
 ### 🖥️ Technologies:
