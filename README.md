@@ -16,7 +16,6 @@ https://main--agtportfolio.netlify.app/#hero
 </p>
 
 - 🌱 I’m currently studying and improving my skills in typescript, react, react native and node.
-- 💻 Student at FIAP, Rocketseat and Alura.
 - 📫 How to reach me: guty.vertolis@gmail.com
 
 
