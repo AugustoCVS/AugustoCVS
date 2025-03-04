@@ -19,7 +19,7 @@ https://main--agtportfolio.netlify.app/#hero
 - 📫 How to reach me: guty.vertolis@gmail.com
 
 
-### 🗃️ 2024 Goals:
+### 🗃️ 2025 Goals:
 
 - 🎒 Keep studying to learn and improve as a fullstack developer
 
